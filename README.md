@@ -13,3 +13,11 @@
 
 
 # result
+
+### `job_urls.txt`
+**Purpose**: A file that stores a list of job posting URLs scraped from websites for analytics, reference, or further processing.
+
+**Key Functionality**:
+- Provides a simple and structured format for storing URLs.
+- Acts as an input for other scripts that process or analyze the scraped job postings.
+- Ensures data persistence and easy sharing of extracted information.
