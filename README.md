@@ -11,7 +11,7 @@
 - Iterates through multiple pages, following pagination logic.
 - Extracts job posting URLs from each page.
 
-### `fetch_html_content.py`
+### `fetch_html_content.py` 
 **Purpose**: To fetch HTML content from a list of URLs provided in a text file and save the results (including errors, if any) into a structured JSON file for further processing or analysis.
 
 **Key Functionality**:
@@ -34,7 +34,7 @@
 - Acts as an input for other scripts that process or analyze the scraped job postings.
 - Ensures data persistence and easy sharing of extracted information.
 
-### `HTML_All_Titles.json`
+### `HTML_All_Titles.json` NOT AVAILBLE 
 **Purpose**: To store the results of HTML content fetched from a list of URLs, including both successfully fetched pages and any errors encountered during the fetching process. This JSON file serves as a structured data format for further analysis or debugging.
 
 **Key Functionality**:
